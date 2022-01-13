@@ -1,0 +1,17 @@
+img {
+	width: 500px;
+	height: 500px;
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+}
+
+#container {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+#counter {
+	display: flex;
+	justify-content: center;
+}
