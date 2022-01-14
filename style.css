@@ -11,7 +11,7 @@ img {
 	justify-content: space-evenly;
 }
 
-#counter {
+#counted, #counted2 {
 	display: flex;
 	justify-content: center;
 }
